@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alfimenkov/Projects</string>
+    <string name="author">Об авторе</string>
+    <string name="sendMsg">Отправить сообщение</string>
+    <string name="aboutMe">Игорь Алфименоков - студент ПОИТ-191</string>
+    <string name="leave">ВЫХОД</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projects>
+    <project>
+        <name>MovieCatalog</name>
+        <description>Web application Movie Catalog using Java,Spring and Jpa</description>
+    </project>
+    <project>
+        <name>DeliveryService</name>
+        <description>Delivery service. Console application using Java and Json</description>
+    </project>
+    <project>
+        <name>DiscordBot</name>
+        <description>Assistant bot for Discord using C# and Discord API</description>
+    </project>
+</projects>
